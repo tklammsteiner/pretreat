@@ -1,14 +1,17 @@
 ---
-layout: default
-title: Home
-nav_order: 1
+title: "**About**"
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 # Large scale study on the effect of substrate pretreatment on black soldier fly microbiome and life cycle
 
 
 **email**: [thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at)  
 
+<br/>
 
 ### Project description  
 TBA
@@ -23,7 +26,8 @@ TBA
 <br/>
 
 ### Funding
-TBA
+This project was funded by the Austrian Research Promotion Agency (FFG).
+
 <br/>
 
 ### Acknowledgements  
@@ -31,7 +35,12 @@ TBA
 <br/>
 <br/>
 
-<a href="https://www.fromwastetofeed.com"><img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/header-logo.png" width="50%"/></a>  
-[www.fromwastetofeed.com](https://www.fromwastetofeed.com)
+<center>
+  <a href="https://www.fromwastetofeed.com">
+    <img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/header-logo.png" width="50%"/>
+  </a>  
+  
+  [www.fromwastetofeed.com](https://www.fromwastetofeed.com)
+</center>
 
 <br/>

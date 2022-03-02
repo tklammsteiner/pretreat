@@ -1,0 +1,19 @@
+name: "PRETREAT"
+navbar:
+  title: "PRETREAT"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Data"
+      href: data.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:fromwastetofeed@outlook.com
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/fromwastetofeed
+    - icon: fa fa-instagram fa-lg
+      href: https://instagram.com/fromwastetofeed
+output_dir: "docs"
+output:
+  html_document:
+    theme: sandstone
