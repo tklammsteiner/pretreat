@@ -7,6 +7,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 **email**: [thomas.klammsteiner(at)uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at)  
+<br/>
+
+This project is a collaborative effort of Thomas Klammsteiner, Carina D. Heussler, Heribert Insam, Birgit C. Schlick-Steiner, and Florian M. Steiner.
 
 <br/>
 
@@ -16,11 +19,14 @@ Testing various pretreatment methods for rearing substrates and their effect on 
 <br/>
 
 ### Publications on this project
-- **Life-history traits of black soldier flies reared on agro-industrial by-products subjected to three pretreatments: A large-scale study.** Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., Klammsteiner, T. *under review*  
+- **Life-history traits of black soldier flies reared on agro-industrial by-products subjected to three pretreatments: A large-scale study.** Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., Klammsteiner, T. 2022. *Journal of Insects as Food and Feed*, TBA.  
+[[doi]](https://www.doi.org/)  
 
-- **Individual density and rearing scale influence temperature profiles during black soldier fly rearing**. Klammsteiner, T., Heussler, C.D, Schlick-Steiner, B.C., Steiner, F.M. INSECTA2021 International Conference, Magdeburg, Germany, 8.-9. September 2021.  
+- **"There is no waste in nature": Die Umwandlung agroindustrieller Nebenerzeugnisse zu Insektenbiomasse.** Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., Klammsteiner, T. *Österreichische Abfallwirtschaftstagung 2022*, Wels, Austria, 30. May 2022.
 
-- **Pretreatment of feeding substrate accelerates the life cycle of the black soldier fly and changes its potential applications in food waste re-utilization**. Heussler, C.D., Klammsteiner, T., Insam, H., Schlick-Steiner, B.C., Steiner, F.M. INSECTA2021 International Conference, Magdeburg, Germany, 8.-9. September 2021.  
+- **Individual density and rearing scale influence temperature profiles during black soldier fly rearing**. Klammsteiner, T., Heussler, C.D, Schlick-Steiner, B.C., Steiner, F.M. *INSECTA2021 International Conference*, Magdeburg, Germany, 8.-9. September 2021.  
+
+- **Pretreatment of feeding substrate accelerates the life cycle of the black soldier fly and changes its potential applications in food waste re-utilization**. Heussler, C.D., Klammsteiner, T., Insam, H., Schlick-Steiner, B.C., Steiner, F.M. *INSECTA2021 International Conference*, Magdeburg, Germany, 8.-9. September 2021.  
 
 <br/>
 
@@ -30,6 +36,7 @@ This project was funded by the Austrian Research Promotion Agency (FFG).
 <br/>
 
 ### Acknowledgements  
+We thank Andreas Walter and Nico Peer for their help with some analyses. 
 
 <br/>
 <br/>
